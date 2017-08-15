@@ -1,0 +1,27 @@
+#include <sys/socket.h>
+#include <netinet/in.h>
+#include <arpa/inet.h>
+#include <pthread.h>
+#include <stdio.h>
+#include <strings.h>
+#include <string.h>
+#include <stdlib.h>
+#include <signal.h>
+#include "timer.h"
+#include <stdint.h>
+#include <fcntl.h>
+#include <unistd.h>
+#include <errno.h>
+#include <linux/i2c-dev.h>
+#include <linux/i2c.h> 
+#include <sys/ioctl.h>
+#include <i2c/smbus.h> 
+#include <fpu_control.h>
+#include "dht.h"
+#include "BMP085.h"
+#include "DS18B20.h"
+#include "HM2301.h"
+#include <malloc.h>
+#include <linux/types.h>
+#include <linux/spi/spidev.h>
+
