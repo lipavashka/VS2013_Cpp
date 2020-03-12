@@ -187,3 +187,12 @@ FakesAssemblies/
 GeneratedArtifacts/
 _Pvt_Extensions/
 ModelManifest.xml
+.vs/VS2013_Cpp/v16/Server/sqlite3/storage.ide-wal
+.vs/VS2013_Cpp/v16/Server/sqlite3/storage.ide-shm
+.vs/VS2013_Cpp/v16/Server/sqlite3/storage.ide
+.vs/VS2013_Cpp/v16/Solution.VC.db-wal
+.vs/VS2013_Cpp/v16/Solution.VC.db-shm
+.vs/VS2013_Cpp/v16/Solution.VC.db
+.vs/VS2013_Cpp/v16/Server/sqlite3/db.lock
+.vs/VS2013_Cpp/v16/Browse.VC.opendb
+.vs/VS2013_Cpp/v16/Browse.VC.db
